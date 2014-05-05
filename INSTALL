@@ -1,9 +1,0 @@
-Building Rome-coin
-
-See doc/readme-qt.rst for instructions on building Rome-coin-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Rome-coin.
-
-See doc/build-*.txt for instructions on building rome-coind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Rome-coin.

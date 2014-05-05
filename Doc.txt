@@ -1,8 +1,0 @@
-ÓòÃû£ºrome-coin.org
-¼ò³Æ£ºRMC
-ÔÚ xiaojqhÏÂ
-
-Port:9144
-
-main.cpp
- void static Rome-coinMiner(CWallet *pwallet)
